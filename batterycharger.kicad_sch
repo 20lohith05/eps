@@ -2072,13 +2072,23 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 78.74) (xy 204.47 57.15)
+			(xy 204.47 69.85) (xy 204.47 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2511c681-1810-46ae-8aa9-73dd0f1288da")
+	)
+	(wire
+		(pts
+			(xy 204.47 77.47) (xy 204.47 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27c02443-0071-43e6-995e-a7d90ddc191b")
 	)
 	(wire
 		(pts
@@ -4036,7 +4046,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N5819")
-		(at 204.47 82.55 270)
+		(at 204.47 73.66 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4045,7 +4055,7 @@
 		(fields_autoplaced yes)
 		(uuid "97e0a9c1-93e8-46fb-b566-2fc2fb77890a")
 		(property "Reference" "D13"
-			(at 207.01 80.9625 90)
+			(at 207.01 72.0725 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4054,7 +4064,7 @@
 			)
 		)
 		(property "Value" "1N5819"
-			(at 207.01 83.5025 90)
+			(at 207.01 74.6125 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4063,7 +4073,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
-			(at 200.025 82.55 0)
+			(at 200.025 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4072,7 +4082,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/88525/1n5817.pdf"
-			(at 204.47 82.55 0)
+			(at 204.47 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4081,7 +4091,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 204.47 82.55 0)
+			(at 204.47 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
