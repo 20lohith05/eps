@@ -1010,7 +1010,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "30"
 			(at 130.81 121.92 90)
 			(effects
 				(font
