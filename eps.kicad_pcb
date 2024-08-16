@@ -10667,7 +10667,7 @@
 	(footprint "Package_BGA:Texas_DSBGA-8_0.705x1.468mm_Layout2x4_P0.4mm"
 		(layer "B.Cu")
 		(uuid "5697303b-ae1f-480f-bcdb-ddb6842d4abf")
-		(at 88.13 55.34 180)
+		(at 126.12 50.34 180)
 		(descr "Texas Instruments, DSBGA, area grid, NSMD, YBJ0008 pad definition, 0.705x1.468mm, 8 Ball, 2x4 Layout, 0.4mm Pitch, https://www.ti.com/lit/gpn/ina234")
 		(tags "BGA 8 0.4")
 		(property "Reference" "U2"
@@ -10991,7 +10991,7 @@
 	(footprint "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical"
 		(layer "B.Cu")
 		(uuid "56ac15f3-062a-4942-aa95-8311c66bce49")
-		(at 83.94 43.9 180)
+		(at 121.93 38.9 180)
 		(descr "Through hole straight pin header, 1x02, 2.00mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.00mm single row")
 		(property "Reference" "J4"
@@ -11897,7 +11897,7 @@
 	(footprint "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical"
 		(layer "B.Cu")
 		(uuid "738f73e3-8f4f-41cc-83a4-7c388f017581")
-		(at 75.84 43.9 180)
+		(at 113.83 38.9 180)
 		(descr "Through hole straight pin header, 1x02, 2.00mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.00mm single row")
 		(property "Reference" "J6"
@@ -12766,7 +12766,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 		(layer "B.Cu")
 		(uuid "913ab9ea-474e-4802-975f-d5d23bb995bd")
-		(at 78.51 51.5 180)
+		(at 116.5 46.5 180)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R9"
@@ -13640,7 +13640,7 @@
 	(footprint "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical"
 		(layer "B.Cu")
 		(uuid "a1926185-8ae2-4471-bbed-3baf703d7017")
-		(at 87.99 43.9 180)
+		(at 125.98 38.9 180)
 		(descr "Through hole straight pin header, 1x02, 2.00mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.00mm single row")
 		(property "Reference" "J3"
@@ -14168,7 +14168,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 		(layer "B.Cu")
 		(uuid "a98c86cc-94b3-4ae6-bdae-60a0ed6f8d21")
-		(at 88.54 51.5 180)
+		(at 126.53 46.5 180)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R8"
@@ -15188,7 +15188,7 @@
 	(footprint "Package_BGA:Texas_DSBGA-8_0.705x1.468mm_Layout2x4_P0.4mm"
 		(layer "B.Cu")
 		(uuid "bdd2f5cb-700c-4bb2-8a0b-d5af4f4cd14c")
-		(at 78.1 55.34 180)
+		(at 116.09 50.34 180)
 		(descr "Texas Instruments, DSBGA, area grid, NSMD, YBJ0008 pad definition, 0.705x1.468mm, 8 Ball, 2x4 Layout, 0.4mm Pitch, https://www.ti.com/lit/gpn/ina234")
 		(tags "BGA 8 0.4")
 		(property "Reference" "U3"
@@ -17171,7 +17171,7 @@
 	(footprint "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical"
 		(layer "B.Cu")
 		(uuid "fd6b0b9d-a5d2-4cb8-a180-77c2430e60bb")
-		(at 79.89 43.9 180)
+		(at 117.88 38.9 180)
 		(descr "Through hole straight pin header, 1x02, 2.00mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.00mm single row")
 		(property "Reference" "J5"
