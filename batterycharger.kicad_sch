@@ -4327,7 +4327,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LT3479EDE_TRPBF:DFN-14_DE"
+		(property "Footprint" "footprints:DFN-14_DE_LIT"
 			(at 58.928 141.732 0)
 			(effects
 				(font
